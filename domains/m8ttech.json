@@ -1,0 +1,22 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "m8ttech-2024",
+    "email": "m8ttech@gmail.com"
+  },
+
+  "target": {
+    "record-type": {TXT
+       "name": "m8ttech", 
+       "value": "vc-domain-verify=m8ttech.is-a-good.dev,750b4d62335a480343a1"
+     }
+      "target": {
+    "A": {
+      "name": "m8ttech", 
+      "value": "216.198.79.1"
+    }
+  },
+
+  "proxied": false
+}
